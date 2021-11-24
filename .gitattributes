@@ -1,0 +1,5 @@
+.git/lfs/objects/03/40/0340514d06a6b9bd8b90db568b592ac7d7d1cf7289ecf6d45b2637d32d912615 filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/59/f7/59f734c3236c4c60f71f965df6f58a2e23fcba4aa4fd44b9502158ed4429d405 filter=lfs diff=lfs merge=lfs -text
+.git/objects/pack/pack-dd7a74bf2d55849ea3ff6a5650e5581b429fa248.pack filter=lfs diff=lfs merge=lfs -text
+ai_project/ai_models/final_Continue_our_large_model_epoch_5.h5 filter=lfs diff=lfs merge=lfs -text
+venv/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd filter=lfs diff=lfs merge=lfs -text
