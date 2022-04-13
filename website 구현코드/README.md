@@ -1,1 +1,1 @@
-# WEBSITE of <AD for U>
+# WEBSITE of AD for U
